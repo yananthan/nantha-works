@@ -1,3 +1,5 @@
-I am satrting from here ...!!!
+program
 
--Letters and Social Aims. Quotation and Originality. Ralph Waldo Emerson. ca 1820-1830
+
+Letters and Social Aims. Quotation and Originality. Ralph Waldo Emerson. ca 1800s
+>>>>>>> lincol
